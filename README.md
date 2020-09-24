@@ -1,7 +1,7 @@
 # SistemasProg
 :fire: :fire: :fire: Repositorio de Sistemas Programables
 
-Julio Fabián Jiménez Ramírez estudiante en 7mo semetre
+Julio Fabián Jiménez Ramírez estudiante en 7mo semestre
 
 Equipo The Challengers.
 
