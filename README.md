@@ -18,6 +18,8 @@ Ingeniería en Sistemas Computacionales
   -:trophy: [cd.1.1_JulioFabianJimenezRamirez_TheChallengers](https://github.com/JJimenez2117/SistemasProg/blob/master/C1.1_JulioFabianJimenezRamirez_TheChallengers.md)
   
   -:trophy: [cd.1.2_JulioFabianJimenezRamirez_TheChallengers](https://github.com/JJimenez2117/SistemasProg/blob/master/C1.2_JulioJimenez_TheChallengers.md)
+  
+   -:trophy: [cd.1.3_JulioFabianJimenezRamirez_TheChallengers](https://github.com/JJimenez2117/SistemasProg/blob/master/C1.3_JulioJimenez_TheChallengers.md)
 
 2.IMG
 
@@ -28,6 +30,8 @@ Ingeniería en Sistemas Computacionales
   -[Cuestionario_Parte1, cd 1.2](https://github.com/JJimenez2117/SistemasProg/blob/master/IMG/C1.x_CalculoCircuito-2.png)
   
   -[Cuestionario_Parte1, cd 1.2](https://github.com/JJimenez2117/SistemasProg/blob/master/IMG/C1.x_CalculoCircuito-3.png)
+  
+  -[img, cd 1.3](https://github.com/JJimenez2117/SistemasProg/blob/master/IMG/C1.x_SensoresTransductoresCircuitoVout.png)
 
 3.docs
 
