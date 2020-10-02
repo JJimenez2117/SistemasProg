@@ -35,4 +35,4 @@ Ingeniería en Sistemas Computacionales
 
 3.docs
 
-  -:bomb:[A1.2_JulioFabianJimenezRamirez_TheChallengers]()
+  -:bomb:[A1.2_JulioFabianJimenezRamirez_TheChallengers](https://github.com/JJimenez2117/SistemasProg/blob/master/A1.2_JulioJimenez_TheChallengers.md)
