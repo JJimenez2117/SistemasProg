@@ -46,4 +46,6 @@ Ingeniería en Sistemas Computacionales
   -:bomb:[A1.3 JulioFabianJimenezRamirez_TheChallengers](https://github.com/JJimenez2117/SistemasProg/blob/master/A1.3_JulioJimenez_TheChallengers.md)
   
    -:bomb:[A2.1 JulioFabianJimenezRamirez_TheChallengers](https://github.com/JJimenez2117/SistemasProg/blob/master/A2.1_JulioJimenez_TheChallengers.md)
+   
+   -:bomb:[A2.2 JulioFabianJimenezRamirez_TheChallengers]()
   
