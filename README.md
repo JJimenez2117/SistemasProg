@@ -26,6 +26,10 @@ Ingeniería en Sistemas Computacionales
    -:trophy: [cd.2.1_JulioFabianJimenezRamirez_TheChallengers](https://github.com/JJimenez2117/SistemasProg/blob/master/C2.1_JulioJimenez_TheChallengers.md)
    
   -:trophy: [cd.2.2_JulioFabianJimenezRamirez_TheChallengers](https://github.com/JJimenez2117/SistemasProg/blob/master/C2.2_JulioJimenez_TheChallengers.md)
+  
+  -:trophy: [cd.3.1_JulioFabianJimenezRamirez_TheChallengers](https://github.com/JJimenez2117/SistemasProg/blob/master/C3.1_JulioJimenez_TheChallengers.md)
+  
+  -:trophy: [cd.3.2_JulioFabianJimenezRamirez_TheChallengers](https://github.com/JJimenez2117/SistemasProg/blob/master/C3.2_JulioJimenez_TheChallengers.md)
 
 2.IMG
 
